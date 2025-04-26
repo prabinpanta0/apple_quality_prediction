@@ -1,0 +1,122 @@
+[
+    {
+        "Test Case": 1,
+        "Size": -0.5,
+        "Weight": -0.4,
+        "Sweetness": 1.2,
+        "Crunchiness": 1.5,
+        "Juiciness": 1.2,
+        "Ripeness": 1.5,
+        "Acidity": -0.5,
+        "Prediction Probability": 0.9242426753044128,
+        "Predicted Quality": "Good"
+    },
+    {
+        "Test Case": 2,
+        "Size": 0.8,
+        "Weight": 0.9,
+        "Sweetness": 1.5,
+        "Crunchiness": 1.2,
+        "Juiciness": 1.5,
+        "Ripeness": 1.2,
+        "Acidity": -0.8,
+        "Prediction Probability": 0.9948659539222717,
+        "Predicted Quality": "Good"
+    },
+    {
+        "Test Case": 3,
+        "Size": -1.2,
+        "Weight": -1.0,
+        "Sweetness": -0.8,
+        "Crunchiness": -0.5,
+        "Juiciness": -0.5,
+        "Ripeness": 0.5,
+        "Acidity": 1.2,
+        "Prediction Probability": 0.001296676928177476,
+        "Predicted Quality": "Bad"
+    },
+    {
+        "Test Case": 4,
+        "Size": 1.5,
+        "Weight": 1.8,
+        "Sweetness": 2.0,
+        "Crunchiness": 1.5,
+        "Juiciness": 2.0,
+        "Ripeness": 1.5,
+        "Acidity": -1.2,
+        "Prediction Probability": 0.9999606013298035,
+        "Predicted Quality": "Good"
+    },
+    {
+        "Test Case": 5,
+        "Size": -2.0,
+        "Weight": -1.5,
+        "Sweetness": -1.2,
+        "Crunchiness": -0.8,
+        "Juiciness": -0.8,
+        "Ripeness": -1.2,
+        "Acidity": 1.5,
+        "Prediction Probability": 0.05360185354948044,
+        "Predicted Quality": "Bad"
+    },
+    {
+        "Test Case": 6,
+        "Size": -3.0,
+        "Weight": -2.8,
+        "Sweetness": -1.8,
+        "Crunchiness": -1.5,
+        "Juiciness": -1.8,
+        "Ripeness": -1.8,
+        "Acidity": 2.0,
+        "Prediction Probability": 7.556059244961943e-07,
+        "Predicted Quality": "Bad"
+    },
+    {
+        "Test Case": 7,
+        "Size": -2.5,
+        "Weight": -2.0,
+        "Sweetness": -1.5,
+        "Crunchiness": -1.8,
+        "Juiciness": -1.5,
+        "Ripeness": -1.5,
+        "Acidity": 1.5,
+        "Prediction Probability": 6.712365120620234e-06,
+        "Predicted Quality": "Bad"
+    },
+    {
+        "Test Case": 8,
+        "Size": -2.2,
+        "Weight": -1.8,
+        "Sweetness": -0.8,
+        "Crunchiness": -1.2,
+        "Juiciness": -1.2,
+        "Ripeness": -0.8,
+        "Acidity": 1.2,
+        "Prediction Probability": 0.2098398208618164,
+        "Predicted Quality": "Bad"
+    },
+    {
+        "Test Case": 9,
+        "Size": -1.8,
+        "Weight": -1.4,
+        "Sweetness": -1.2,
+        "Crunchiness": -0.8,
+        "Juiciness": -0.8,
+        "Ripeness": -1.2,
+        "Acidity": 1.5,
+        "Prediction Probability": 0.020317813381552696,
+        "Predicted Quality": "Bad"
+    },
+    {
+        "Test Case": 10,
+        "Size": 0.5,
+        "Weight": 0.6,
+        "Sweetness": 1.5,
+        "Crunchiness": 1.2,
+        "Juiciness": 1.5,
+        "Ripeness": 1.2,
+        "Acidity": -0.8,
+        "Prediction Probability": 0.984001874923706,
+        "Predicted Quality": "Good"
+    }
+]
